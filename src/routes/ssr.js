@@ -1,3 +1,5 @@
+// This file acts as our ssr, here we use a templating engine to add our
+// React component to the html.
 import express from "express";
 import App from "../components/app";
 import React from "react";

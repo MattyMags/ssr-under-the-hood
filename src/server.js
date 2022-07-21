@@ -1,3 +1,5 @@
+// JUST A NORMAL SERVER, nothing special.
+
 import express from "express";
 import compression from "compression";
 import ssr from "./routes/ssr.js";
